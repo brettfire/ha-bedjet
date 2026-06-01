@@ -1,6 +1,6 @@
 {
   "domain": "bedjet",
-  "name": "BedJet",
+  "name": "BedJet (Brett)",
   "bluetooth": [
     {
       "service_uuid": "00001000-bed0-0080-aa55-4265644a6574",
@@ -17,22 +17,21 @@
     }
   ],
   "codeowners": [
-    "@natekspencer",
-    "@jdaleo23"
+    "@brettfire"
   ],
   "config_flow": true,
   "dependencies": [
     "bluetooth_adapters"
   ],
-  "documentation": "https://github.com/natekspencer/ha-bedjet",
+  "documentation": "https://github.com/brettfire/ha-bedjet",
   "integration_type": "device",
   "iot_class": "local_polling",
-  "issue_tracker": "https://github.com/natekspencer/ha-bedjet/issues",
+  "issue_tracker": "https://github.com/brettfire/ha-bedjet/issues",
   "loggers": [
     "custom_components.bedjet",
     "bleak_retry_connector",
     "bluetooth_adapters",
     "habluetooth"
   ],
-  "version": "2.0.2"
+  "version": "2.0.3"
 }

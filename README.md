@@ -1,12 +1,10 @@
 <!-- BEGIN AUTO-GENERATED HEADER -->
 
-[![Release](https://img.shields.io/github/v/release/natekspencer/ha-bedjet?style=for-the-badge)](https://github.com/natekspencer/ha-bedjet/releases)
-[![HACS Badge](https://img.shields.io/badge/HACS-default-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration)
-[![Buy Me A Coffee/Beer](https://img.shields.io/badge/Buy_Me_A_☕/🍺-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=grey)](https://ko-fi.com/natekspencer)
-[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor_💜-6f42c1?style=for-the-badge&logo=github&logoColor=white&labelColor=grey)](https://github.com/sponsors/natekspencer)
+[![Release](https://img.shields.io/github/v/release/brettfire/ha-bedjet?style=for-the-badge)](https://github.com/brettfire/ha-bedjet/releases)
+[![HACS Badge](https://img.shields.io/badge/HACS-custom-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration)
 
-![Downloads](https://img.shields.io/github/downloads/natekspencer/ha-bedjet/total?style=flat-square)
-![Latest Downloads](https://img.shields.io/github/downloads/natekspencer/ha-bedjet/latest/total?style=flat-square)
+![Downloads](https://img.shields.io/github/downloads/brettfire/ha-bedjet/total?style=flat-square)
+![Latest Downloads](https://img.shields.io/github/downloads/brettfire/ha-bedjet/latest/total?style=flat-square)
 
 <!-- END AUTO-GENERATED HEADER -->
 
@@ -31,12 +29,12 @@ This project provides various entities to allow control of a [BedJet V2 or BedJe
 
 ### HACS (Recommended)
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=natekspencer&repository=ha-bedjet&category=integration)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=brettfire&repository=ha-bedjet&category=integration)
 
-This integration is available in the default [HACS](https://hacs.xyz/) repository.
+This integration is available as a custom [HACS](https://hacs.xyz/) repository.
 
 1. Use the **My Home Assistant** badge above, or from within Home Assistant, click on **HACS**
-2. Search for `BedJet` and click on the appropriate repository
+2. Search for `BedJet (Brett)` and click on the appropriate repository
 3. Click **DOWNLOAD**
 4. Restart Home Assistant
 
@@ -63,7 +61,7 @@ Alternatively:
 
 1. Go to [Settings > Devices & services](https://my.home-assistant.io/redirect/integrations/)
 2. In the bottom-right corner, select **Add integration**
-3. Type `BedJet` and select the **BedJet** integration
+3. Type `BedJet` and select the **BedJet (Brett)** integration
 4. Follow the instructions to add the integration to your Home Assistant
 <!-- END AUTO-GENERATED INSTALLATION -->
 
@@ -73,18 +71,14 @@ Alternatively:
 
 <!-- BEGIN AUTO-GENERATED FOOTER -->
 
-## ❤️ Support Me
+## Support
 
-I maintain this Home Assistant integration in my spare time. If you find it useful, consider supporting development:
+This fork is maintained by [@brettfire](https://github.com/brettfire).
 
-- 💜 [Sponsor me on GitHub](https://github.com/sponsors/natekspencer)
-- ☕ [Buy me a coffee / beer](https://ko-fi.com/natekspencer)
-- 💸 [PayPal (direct support)](https://www.paypal.com/paypalme/natekspencer)
-- ⭐ [Star this project](https://github.com/natekspencer/ha-bedjet)
-- 📦 If you’d like to support in other ways, such as donating hardware for testing, feel free to [reach out to me](https://github.com/natekspencer)
+- ⭐ [Star this project](https://github.com/brettfire/ha-bedjet)
 
 ## 📈 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=natekspencer/ha-bedjet)](https://www.star-history.com/#natekspencer/ha-bedjet)
+[![Star History Chart](https://api.star-history.com/svg?repos=brettfire/ha-bedjet)](https://www.star-history.com/#brettfire/ha-bedjet)
 
 <!-- END AUTO-GENERATED FOOTER -->
